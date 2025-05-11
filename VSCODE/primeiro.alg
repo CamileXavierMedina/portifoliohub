@@ -1,4 +1,4 @@
 algoritmo "primeiro" 
 inicio
-escreval("Olá, Visualg!") 
+escreval("Olá, Vscode!") 
 fimalgoritmo
