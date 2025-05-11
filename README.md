@@ -1,14 +1,23 @@
-# Portfólio Camile
+# Portfólio da Camile Xavier Medina
 
-Este é o meu repositório de portfólio. Aqui você encontrará:
+Bem-vindo(a) ao meu repositório de portfólio! 🌟
 
-- Códigos feitos no Visualg
-- Projetos do Google Colab
-- Projetos em HTML, CSS e JavaScript
-- Anotações dos meus estudos
+Este projeto foi criado para organizar e apresentar meus trabalhos, estudos e aprendizados em programação e outras áreas.
 
-## Estrutura de pastas
+## 📁 Estrutura do Projeto
 
-- visualg/ — arquivos feitos no Visualg (.alg)
-- colab/ — notebooks do Google Colab (.ipynb)
-- html/ — arquivos HTML e projetos web
+- `README.md` – Este arquivo com informações gerais.
+- `VISUALG/` – Códigos e exercícios feitos com VisualG.
+- `desktop.ini` – Arquivo de configuração automático do Windows (pode ser ignorado).
+
+## 🚀 Objetivo
+
+Desenvolver um portfólio onde eu possa acompanhar minha evolução e compartilhar meus projetos com o mundo.
+
+## 🌐 GitHub Pages
+
+(Em breve: link para o site publicado aqui!)
+
+---
+
+📬 Entre em contato comigo pelo GitHub ou deixe uma issue se quiser trocar uma ideia.
