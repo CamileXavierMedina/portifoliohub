@@ -14,9 +14,6 @@ Este projeto foi criado para organizar e apresentar meus trabalhos, estudos e ap
 
 Desenvolver um portfólio onde eu possa acompanhar minha evolução e compartilhar meus projetos com o mundo.
 
-## 🌐 GitHub Pages
-
-(Em breve: link para o site publicado aqui!)
 
 ---
 
