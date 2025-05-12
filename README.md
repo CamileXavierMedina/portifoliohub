@@ -10,7 +10,7 @@ Este projeto foi criado para organizar e apresentar meus trabalhos, estudos e ap
 - `VSCODE/` – Códigos e exercícios feitos com Vscode.
 - `desktop.ini` – Arquivo de configuração automático do Windows (pode ser ignorado).
 
-## 🚀 Objetivo
+## 🚀 Objetivo!
 
 Desenvolver um portfólio onde eu possa acompanhar minha evolução e compartilhar meus projetos com o mundo.
 
