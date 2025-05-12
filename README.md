@@ -8,7 +8,7 @@ Este projeto foi criado para organizar e apresentar meus trabalhos, estudos e ap
 
 - `README.md` – Este arquivo com informações gerais.
 - `VSCODE/` – Códigos e exercícios feitos com Vscode.
-- `desktop.ini` – Arquivo de configuração automático do Windows (pode ser ignorado).
+- `GOOGLE COLAB` – Atividades e exercicios de aula.
 
 ## 🚀 Objetivo!
 
