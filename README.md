@@ -7,7 +7,7 @@ Este projeto foi criado para organizar e apresentar meus trabalhos, estudos e ap
 ## 📁 Estrutura do Projeto
 
 - `README.md` – Este arquivo com informações gerais.
-- `VISUALG/` – Códigos e exercícios feitos com VisualG.
+- `VSCODE/` – Códigos e exercícios feitos com Vscode.
 - `desktop.ini` – Arquivo de configuração automático do Windows (pode ser ignorado).
 
 ## 🚀 Objetivo
