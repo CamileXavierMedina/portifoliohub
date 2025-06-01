@@ -14,7 +14,7 @@ Desenvolver um portfólio para acompanhar minha evolução e compartilhar meus p
 
 ## 🌐 GitHub Pages
 
-Acesse o portfólio online: [https://camilexaviermedina.github.io/portifoliohub/](https://camilexaviermedina.github.io/portifoliohub/)
+Acesse o portfólio online: C:/Users/Camile/Desktop/PORTIFOLIOHUB1/HTML/index.html
 
 ---
 
