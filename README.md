@@ -5,6 +5,11 @@ Este repositório faz parte do projeto **PortfolioHUB + IA Gemini**, realizado n
 Aqui estão alguns dos meus primeiros projetos com lógica de programação, VisualG e Python.
 
 ---
+---
+# Portfólio de Camile Xavier Medina
+
+📌 **Acesse meu portfólio online aqui:**  
+🔗 [https://camilexaviermedina.github.io/portifoliohub/](https://camilexaviermedina.github.io/portifoliohub/)
 
 ## 📁 Meus Projetos
 
