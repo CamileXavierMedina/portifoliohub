@@ -1,32 +1,60 @@
-# 🌸 Portfólio de Camile Xavier Medina
+# Portfólio de Camile Xavier Medina
 
-Bem-vindo(a) ao meu portfólio de projetos!  
-Este repositório foi criado como entrega final do curso, para demonstrar os projetos desenvolvidos e praticar HTML e lógica de programação.
-
----
-
-## 📄 Sobre
-
-Sou estudante de tecnologia e durante o curso desenvolvi habilidades com HTML, VisualG e Python.
+Bem-vindo ao meu portfólio! 👩🏽‍💻  
+Este repositório faz parte do projeto **PortfolioHUB + IA Gemini**, realizado no Bootcamp I do CEUB – 2025.  
+Aqui estão meus principais projetos desenvolvidos com HTML, CSS e JavaScript.
 
 ---
 
-## 💻 Projetos Apresentados
+## 🌐 Acesse o Portfólio
 
-### 🔢 Projeto 1 – Calculadora em VisualG
-Calculadora simples feita com base nos conteúdos de lógica de programação.
-
-🔗 [Ver projeto no GitHub](https://github.com/CamileXavierMedina/portifoliohub/blob/main/C%C3%B3pia_de_ter%C3%A7a_aula1.ipynb)
+Para ver minha página principal com os projetos, abra o arquivo `index.html` ou veja abaixo os projetos destacados.
 
 ---
 
-### 🌐 Projeto 2 – Página HTML de Apresentação
-Página feita com HTML para apresentar meu portfólio, com informações pessoais e links.
+## 📁 Projetos em Destaque
 
-🔗 [Ver site publicado](https://camilexaviermedina.github.io/portifoliohub/)
+| Projeto                  | Descrição                                                | Acessar Projeto |
+|--------------------------|----------------------------------------------------------|------------------|
+| **Calculadora de IMC**   | Calcula o Índice de Massa Corporal com base no peso e altura. | [🔗 Clique aqui](./projetos/imc.html) |
+| **Conversor de Temperatura** | Converte temperaturas entre Celsius, Fahrenheit e Kelvin.     | [🔗 Clique aqui](./projetos/conversor.html) |
+| **Jogo da Adivinhação**  | Um jogo simples onde você tenta adivinhar um número secreto. | [🔗 Clique aqui](./projetos/adivinhacao.html) |
+
+> Dica: esses links funcionam localmente (no seu computador).  
+> Se quiser abrir online, publique no GitHub Pages e atualize os links.
 
 ---
 
-## ✉️ Contato
+## 🛠️ Tecnologias Usadas
 
-📧 camile.medina@sempreceub.com
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Google Workspace
+- Google Gemini
+
+---
+
+## 📂 Estrutura do Projeto
+
+
+---
+
+## 👩🏽 Sobre Mim
+
+Meu nome é **Camile Xavier Medina**. Sou estudante de Análise e Desenvolvimento de Sistemas no CEUB.  
+Tenho interesse na área de **desenvolvimento Back-End**, mas também estou explorando o Front-End com HTML, CSS e JavaScript.  
+Este portfólio é meu primeiro passo para mostrar meus aprendizados e projetos práticos.
+
+---
+
+## 📬 Contato
+
+- ✉️ E-mail: [camile.medina@sempreceub.com](mailto:camile.medina@sempreceub.com)
+- 🔗 LinkedIn: [www.linkedin.com/in/camile-medina-581b8735b](https://www.linkedin.com/in/camile-medina-581b8735b)
+
+---
+
+> Projeto entregue como parte do Bootcamp I – CEUB, 2025.
+
